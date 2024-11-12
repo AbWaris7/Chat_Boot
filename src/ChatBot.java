@@ -7,6 +7,7 @@ public class ChatBot {
         Scanner input = new Scanner(System.in);
         String botName = "Mr.Reboot";
         int brithYear = 1996;
+
         System.out.println("Hello! My name is " + botName);
         System.out.println("I was created in "+brithYear);
 
