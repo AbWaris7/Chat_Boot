@@ -55,7 +55,7 @@ public class ChatBot {
             System.out.println("4. To interrupt the execution of a program.");
 
             int answer = scanner.nextInt();
-            if(answer == 1) {
+            if(answer == 2) {
 
                 break;
             }
