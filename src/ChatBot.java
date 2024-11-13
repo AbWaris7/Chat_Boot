@@ -9,7 +9,6 @@ public class ChatBot {
         remindName();
         guessAge();
         count();
-        // ...
         test();
         end();
     }
